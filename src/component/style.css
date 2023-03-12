@@ -1,0 +1,50 @@
+.front {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.SigninForm {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main-heading {
+    color: green;
+}
+.paragraph-front {
+    font-size: large;
+    font-weight: 500;
+    color: blue;
+    
+}
+
+.getStarted input{
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 300px;
+    margin-bottom: 300px;
+}
+.getStarted-link:hover {
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.home{
+    text-align: center;
+}
+
+.name {
+    width: 24%;
+}
+.food{
+    width: 30%;
+}
